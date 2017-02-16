@@ -7,7 +7,7 @@ guessesTaken = 0
 print('Hello! What is your name?')
 myName = input()
 
-number = random.randint(1,100)
+number = random.randint(1,100)   #this part of code allows the program to think one secret random number.
 print("Well, " + myName + ",I am thinking of a number between 1 to 100")
 
 
